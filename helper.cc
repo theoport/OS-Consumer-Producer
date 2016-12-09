@@ -86,12 +86,3 @@ int sem_close (int id)
     return -1;
   return 0;
 }
-
-void wait_20(bool& a){
-	cout<<"WAITING.."<<endl;
-	sleep(20);
-	cout<<"WAITING DONE"<<endl;
-	a=true;
-}
-
-	 

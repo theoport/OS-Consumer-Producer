@@ -1,3 +1,3 @@
 # OS-Consumer-Producer
 
-see pdf file for details
+Operating Systems Coursework for the MSc in Computing Science at Imperial. See pdf file for details
